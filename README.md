@@ -1,5 +1,6 @@
 # Obi
-Utility for running remote bash on any device. Can be flashed onto a usb.
+Utility for running remote bash on any device. Can be flashed onto a usb.\
+
 ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-%23000000?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 
